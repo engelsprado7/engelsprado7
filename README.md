@@ -16,7 +16,7 @@
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 How to reach me ...engelsprado7@gmail.com.
 
 <hr>
 
