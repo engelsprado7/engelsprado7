@@ -16,7 +16,7 @@
 - 💡 I’m curious about ...Trading, stocks and Crypto Currency.
 - 📖 I’m currently learning ...Astro.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...engelsprado7@gmail.com.
+- 📫 How to reach me... engelsprado7@gmail.com.
 
 <hr>
 
